@@ -1,0 +1,42 @@
+*{
+	padding: :0px;
+	margin: 0px;
+}
+body{
+	background:url(back.jpg); 
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-color: #011;
+	
+}
+.container{
+	width:600px;
+	margin: 10% auto;
+}
+h2{
+		color: white;
+}
+.login-form{    
+	background: #008080ad;
+    padding: 25px
+
+}
+.login-form h2{
+
+}
+.login-form img{
+ margin: 0 auto;
+ display: block;
+ width: 150px;
+ height: 150px;
+
+}
+.form-control{
+
+}
+.btn{
+
+}
+a{
+	color: red;
+}
